@@ -1,0 +1,14 @@
+{
+  "name": "kitodo/presentation-3d-libraries",
+  "version": "0.0.1",
+  "readme": "README.md",
+  "license": ["GPL-3.0-or-later"],
+  "authors": [
+    {
+      "name": "Beatrycze Volk",
+      "email": "beatrycze.volk@slub-dresden.de",
+      "homepage": "https://www.slub-dresden.de",
+      "role": "developer"
+    }
+  ]
+}
